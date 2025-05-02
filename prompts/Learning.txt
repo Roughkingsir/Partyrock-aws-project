@@ -1,0 +1,11 @@
+What i learned after using the tool is how a prompt should be designed in order to make it helpful for the AI
+to really grasp what you are trying to convey. 
+
+Amazon PartyRock can be used to create useful things such as planners, schedulers etc, it can also be used for 
+entertainment. But of course it has its limitations. What i figured is that you can only use base models for now,
+there can be no external API calls made and you can't fine-tune models with it. For that you can use Amazon Q or Bedrock
+which are better options. I think they can be used for enterprise solutions as well. 
+
+This was a fun experiment though, its good for being creative and learning or prototyping. 
+
+Use the app using this link: https://partyrock.aws/u/Rough/jPrIehqEN/TaskMind-AI

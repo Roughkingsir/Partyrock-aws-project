@@ -1,0 +1,10 @@
+I don't specifically remember the default prompt but it went something like this:
+
+Make me a simple task scheduler using AI, which takes Main Goal, timeframe and constraints as inputs 
+and generates results.
+
+After writing this prompt i continued tweaking the prompts separately for each widgets, which can be seen after
+you click on the edit option on widgets.
+
+Variables can be added, they provide a way of defining a default behavior, for example you can tell the AI to keep the 
+answers beginner-friendly from the start or anything like that. 
